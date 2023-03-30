@@ -1,5 +1,7 @@
 # Reporting Errors, Sharing HAR Traces and Screenshots
 
+https://github.com/fsegurai/TEKKB_Management_Issues/issues
+
 When using software, it is common to run into errors and issues that need to be reported to the developers. Reporting these errors can help the developers understand the problem and fix it faster. In this guide, we will explain how to report errors, share HAR traces, and screenshots to open issues on a repository.
 
 ## Reporting Errors
